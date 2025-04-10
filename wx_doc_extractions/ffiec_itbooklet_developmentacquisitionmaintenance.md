@@ -1912,7 +1912,7 @@ K
 
 | 4, OPERATIONAL AND MAINTENANCE The system performs the work it was developed for. 
 
-* 5. SUNSET AND DISPOSAL The system is disposed of once the transition to new a computer system is completed.
+* 5. SUNSET AND DISPOSAL The system is disposed of once the transition to a new computer system is completed.
 
 The initiation phase begins when entity personnel identify an opportunity to build, buy, or modify a system or component and formally seek approval with an IT project request. The project team should describe the IT project’s purpose, identify expected benefits, and explain how the proposed system or component supports the entity’s objectives. The project team should summarize the confidentiality, integrity, availability, resilience, and legal and regulatory requirements. They should identify alternative solutions and justify their recommended solution. Through IT project request development, stakeholders should gain a common understanding of the project’s objectives, security considerations, and risk management planning to mitigate the risk of project failure. 
 
